@@ -39,7 +39,6 @@ python network_monitor.py -i eth0 -d 60
 
 Si l'interface spécifiée n'est pas trouvée, le script affichera la liste des interfaces réseau disponibles.
 
-
 ## Avertissements
 
 - Assurez-vous d'avoir les permissions nécessaires pour surveiller l'interface réseau spécifiée.
