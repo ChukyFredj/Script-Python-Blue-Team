@@ -1,4 +1,4 @@
-### README Global pour Script-Python-Blue-Team
+### Script-Python-Blue-Team
 
 Bienvenue dans le dépôt **Script-Python-Blue-Team**. Ce dépôt contient plusieurs scripts Python visant à améliorer la sécurité de l'infrastructure réseau de DragonTech. Chaque script répond à un besoin spécifique en matière de sécurité informatique, de la surveillance du réseau à la détection des anomalies et à l'analyse forensique.
 
