@@ -1,47 +1,47 @@
-### Script-Python-Blue-Team
+### Python-Script-Blue-Team
 
-Bienvenue dans le dépôt **Script-Python-Blue-Team**. Ce dépôt contient plusieurs scripts Python visant à améliorer la sécurité de l'infrastructure réseau de DragonTech. Chaque script répond à un besoin spécifique en matière de sécurité informatique, de la surveillance du réseau à la détection des anomalies et à l'analyse forensique.
+Welcome to the **Python-Script-Blue-Team** repository. This repository contains several Python scripts aimed at enhancing the network infrastructure security of DragonTech (fictitious name). Each script addresses a specific cybersecurity need, ranging from network monitoring to anomaly detection and forensic analysis.
 
-#### Structure du dépôt
+#### Repository Structure
 
-- **Analyse forensique**
+- **Forensic Analysis**
   - `main.py`
-- **Collecte de logs**
+- **Log Collection**
   - `main.py`
-- **Détection des anomalies**
+- **Anomaly Detection**
   - `main.py`
-- **Détection des attaques**
+- **Attack Detection**
   - `main.py`
-- **Gestion de fichiers**
+- **File Management**
   - `main.py`
-- **Surveillance du réseau**
+- **Network Monitoring**
   - `main.py`
 
-#### Scripts inclus
+#### Included Scripts
 
-1. **Surveillance du réseau**
-   - Fichier : `Surveillance du réseau/main.py`
-   - Fonction : Surveiller le trafic réseau sur une interface donnée en utilisant la bibliothèque Scapy.
+1. **Network Monitoring**
+   - File: `Network Monitoring/main.py`
+   - Function: Monitor network traffic on a given interface using the Scapy library.
 
-2. **Gestion de fichiers**
-   - Fichier : `Gestion de fichiers/main.py`
-   - Fonction : Parcourir un répertoire et lister les fichiers avec leurs tailles.
+2. **File Management**
+   - File: `File Management/main.py`
+   - Function: Traverse a directory and list files along with their sizes.
 
-3. **Détection des attaques**
-   - Fichier : `Détection des attaques/main.py`
-   - Fonction : Détecter les tentatives de connexion suspectes sur une machine locale.
+3. **Attack Detection**
+   - File: `Attack Detection/main.py`
+   - Function: Detect suspicious connection attempts on a local machine.
 
-4. **Analyse forensique**
-   - Fichier : `Analyse forensique/main.py`
-   - Fonction : Analyser les journaux d'un serveur web et identifier des schémas d'attaques potentielles.
+4. **Forensic Analysis**
+   - File: `Forensic Analysis/main.py`
+   - Function: Analyze web server logs and identify potential attack patterns.
 
-5. **Collecte de logs**
-   - Fichier : `Collecte de logs/main.py`
-   - Fonction : Collecter et centraliser les logs des différents composants du réseau.
+5. **Log Collection**
+   - File: `Log Collection/main.py`
+   - Function: Collect and centralize logs from various network components.
 
-6. **Détection des anomalies**
-   - Fichier : `Détection des anomalies/main.py`
-   - Fonction : Détecter des anomalies dans les données collectées en utilisant des bibliothèques de machine learning.
+6. **Anomaly Detection**
+   - File: `Anomaly Detection/main.py`
+   - Function: Detect anomalies in collected data using machine learning libraries.
 
 
-N'hésitez pas à consulter chaque script pour plus de détails et à adapter les configurations selon vos besoins spécifiques. Pour toute question ou assistance supplémentaire, veuillez contacter [Votre nom] à [Vos coordonnées].
+Feel free to review each script for more details and customize the configurations according to your specific needs.
